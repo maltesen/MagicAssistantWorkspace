@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cards>
+  <name>von patrick haben</name>
+  <key>Decks/Virtual/von patrick haben</key>
+  <comment></comment>
+  <type>deck</type>
+  <properties>
+    <property name="virtual" value="true"/>
+  </properties>
+  <list>
+  </list>
+</cards>

@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cards>
+  <name>Warriors</name>
+  <key>Decks/Virtual/Warriors</key>
+  <comment></comment>
+  <type>deck</type>
+  <properties>
+    <property name="virtual" value="true"/>
+  </properties>
+  <list>
+    <mcp>
+      <card>
+        <id>386532</id>
+        <name>End Hostilities</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386711</id>
+        <name>Utter End</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386554</id>
+        <name>High Sentinels of Arashin</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386464</id>
+        <name>Abzan Ascendancy</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386548</id>
+        <name>Grim Haruspex</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386550</id>
+        <name>Hardened Scales</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386564</id>
+        <name>Incremental Growth</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386511</id>
+        <name>Dazzling Ramparts</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386691</id>
+        <name>Take Up Arms</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386630</id>
+        <name>Raiders' Spoils</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386466</id>
+        <name>Abzan Battle Priest</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386504</id>
+        <name>Chief of the Edge</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386469</id>
+        <name>Abzan Guide</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386645</id>
+        <name>Sage-Eye Harrier</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386710</id>
+        <name>Unyielding Krumar</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386642</id>
+        <name>Rush of Battle</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386669</id>
+        <name>Smite the Monstrous</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386596</id>
+        <name>Mardu Hordechief</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386582</id>
+        <name>Kill Shot</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386660</id>
+        <name>Seeker of the Way</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386598</id>
+        <name>Mardu Skullhunter</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386521</id>
+        <name>Disowned Ancestor</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386594</id>
+        <name>Mardu Hateblade</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386588</id>
+        <name>Longshot Squad</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386471</id>
+        <name>Ainok Bond-Kin</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386603</id>
+        <name>Mer-Ek Nightblade</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Tue Jun 08 10:26:25 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386682</id>
+        <name>Suspension Field</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386468</id>
+        <name>Abzan Falconer</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Tue Jun 08 10:26:25 CEST 2021</date>
+    </mcp>
+  </list>
+</cards>

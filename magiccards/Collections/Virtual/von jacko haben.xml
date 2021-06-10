@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cards>
+  <name>von jacko haben</name>
+  <key>Collections/Virtual/von jacko haben</key>
+  <comment></comment>
+  <type>collection</type>
+  <properties>
+    <property name="readonly" value="false"/>
+    <property name="virtual" value="true"/>
+  </properties>
+  <list>
+    <mcp>
+      <card>
+        <id>386724</id>
+        <name>Windstorm</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386552</id>
+        <name>Heir of the Wilds</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386617</id>
+        <name>Naturalize</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386694</id>
+        <name>Temur Charger</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386647</id>
+        <name>Sagu Mauler</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386580</id>
+        <name>Kheru Lich Lord</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386463</id>
+        <name>Abomination of Gudul</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386558</id>
+        <name>Hooting Mandrills</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386620</id>
+        <name>Opulent Palace</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386664</id>
+        <name>Sidisi, Brood Tyrant</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386673</id>
+        <name>Stubborn Denial</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386679</id>
+        <name>Sultai Soothsayer</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386661</id>
+        <name>Set Adrift</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386697</id>
+        <name>Thousand Winds</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386657</id>
+        <name>Secret Plans</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386599</id>
+        <name>Mardu Warshrieker</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386495</id>
+        <name>Bloodstained Mire</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386714</id>
+        <name>Villainous Wealth</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386635</id>
+        <name>Retribution of the Ancients</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386504</id>
+        <name>Chief of the Edge</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386560</id>
+        <name>Hordeling Outburst</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386517</id>
+        <name>Despise</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386578</id>
+        <name>Kheru Bloodsucker</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386466</id>
+        <name>Abzan Battle Priest</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386691</id>
+        <name>Take Up Arms</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386491</id>
+        <name>Bloodfell Caves</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386577</id>
+        <name>Jungle Hollow</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386696</id>
+        <name>Thornwood Falls</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386591</id>
+        <name>Mardu Banner</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386675</id>
+        <name>Sultai Banner</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386628</id>
+        <name>Ponyback Brigade</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386484</id>
+        <name>Awaken the Bear</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386652</id>
+        <name>Savage Punch</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386656</id>
+        <name>Scout the Borders</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386663</id>
+        <name>Shatter</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386706</id>
+        <name>Trumpet Blast</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386502</id>
+        <name>Cancel</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386690</id>
+        <name>Taigam's Scheming</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386596</id>
+        <name>Mardu Hordechief</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386553</id>
+        <name>Herald of Anafenza</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+  </list>
+</cards>

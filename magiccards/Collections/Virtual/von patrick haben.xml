@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cards>
+  <name>von patrick haben</name>
+  <key>Collections/Virtual/von patrick haben</key>
+  <comment></comment>
+  <type>collection</type>
+  <properties>
+    <property name="readonly" value="false"/>
+    <property name="virtual" value="true"/>
+  </properties>
+  <list>
+    <mcp>
+      <card>
+        <id>386664</id>
+        <name>Sidisi, Brood Tyrant</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Collections/Virtual/von patrick haben</location>
+      <date>Tue Jun 08 21:49:51 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386631</id>
+        <name>Rakshasa Deathdealer</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>6</count>
+      <location>Collections/Virtual/von patrick haben</location>
+      <date>Tue Jun 08 21:49:51 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386627</id>
+        <name>Polluted Delta</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/von patrick haben</location>
+      <date>Tue Jun 08 21:49:51 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386487</id>
+        <name>Become Immense</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>6</count>
+      <location>Collections/Virtual/von patrick haben</location>
+      <date>Tue Jun 08 21:49:51 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386513</id>
+        <name>Death Frenzy</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/von patrick haben</location>
+      <date>Tue Jun 08 21:49:51 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386583</id>
+        <name>Kin-Tree Invocation</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/von patrick haben</location>
+      <date>Tue Jun 08 21:49:51 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386620</id>
+        <name>Opulent Palace</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/von patrick haben</location>
+      <date>Tue Jun 08 21:49:51 CEST 2021</date>
+    </mcp>
+  </list>
+</cards>
