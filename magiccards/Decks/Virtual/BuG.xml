@@ -94,7 +94,7 @@
         <name>Taigam's Scheming</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>3</count>
+      <count>2</count>
       <location>Decks/Virtual/BuG</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
     </mcp>
@@ -154,7 +154,7 @@
         <name>Island</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>5</count>
+      <count>4</count>
       <location>Decks/Virtual/BuG</location>
       <date>Tue Jun 08 16:00:10 CEST 2021</date>
     </mcp>
@@ -282,6 +282,16 @@
       <card>
         <id>386621</id>
         <name>Pearl Lake Ancient</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Decks/Virtual/BuG</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386537</id>
+        <name>Flooded Strand</name>
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>

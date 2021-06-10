@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cards>
+  <name>Booster 3</name>
+  <key>Collections/Booster 3</key>
+  <comment></comment>
+  <type>collection</type>
+  <properties>
+    <property name="virtual" value="false"/>
+  </properties>
+  <list>
+    <mcp>
+      <card>
+        <id>386495</id>
+        <name>Bloodstained Mire</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 3</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:52:15 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386679</id>
+        <name>Sultai Soothsayer</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 3</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:52:15 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386595</id>
+        <name>Mardu Heart-Piercer</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 3</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:52:15 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386505</id>
+        <name>Chief of the Scale</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 3</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:52:15 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386503</id>
+        <name>Canyon Lurkers</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 3</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:52:15 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386463</id>
+        <name>Abomination of Gudul</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 3</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:52:15 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386646</id>
+        <name>Sagu Archer</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 3</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:52:15 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386606</id>
+        <name>Molting Snakeskin</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 3</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:52:15 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386680</id>
+        <name>Summit Prowler</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 3</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:52:15 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386670</id>
+        <name>Smoke Teller</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 3</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:52:15 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386584</id>
+        <name>Kin-Tree Warden</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 3</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:52:15 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386585</id>
+        <name>Krumar Bond-Kin</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 3</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:52:15 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386645</id>
+        <name>Sage-Eye Harrier</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 3</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:52:15 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386577</id>
+        <name>Jungle Hollow</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Booster 3</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:52:15 CEST 2021</date>
+    </mcp>
+  </list>
+</cards>

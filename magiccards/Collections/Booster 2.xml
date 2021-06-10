@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cards>
+  <name>Booster 2</name>
+  <key>Collections/Booster 2</key>
+  <comment></comment>
+  <type>collection</type>
+  <properties>
+    <property name="virtual" value="false"/>
+  </properties>
+  <list>
+    <mcp>
+      <card>
+        <id>386614</id>
+        <name>Mystic Monastery</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 2</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 17:55:51 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386477</id>
+        <name>Ankle Shanker</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 2</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 17:56:04 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386727</id>
+        <name>Winterflame</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 2</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 17:56:31 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386487</id>
+        <name>Become Immense</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 2</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 17:56:47 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386689</id>
+        <name>Swiftwater Cliffs</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 2</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 17:56:58 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386587</id>
+        <name>Lens of Clarity</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 2</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 17:57:10 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386515</id>
+        <name>Defiant Strike</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 2</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 17:57:35 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386533</id>
+        <name>Erase</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 2</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 17:57:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386534</id>
+        <name>Feat of Resistance</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 2</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 17:57:57 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386721</id>
+        <name>Wetland Sambar</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 2</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 17:58:05 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386663</id>
+        <name>Shatter</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 2</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 17:58:46 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386642</id>
+        <name>Rush of Battle</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 2</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 17:58:57 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386528</id>
+        <name>Dutiful Return</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 2</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 17:59:10 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386722</id>
+        <name>Whirlwind Adept</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 2</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 17:59:16 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386585</id>
+        <name>Krumar Bond-Kin</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 2</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 17:59:24 CEST 2021</date>
+    </mcp>
+  </list>
+</cards>

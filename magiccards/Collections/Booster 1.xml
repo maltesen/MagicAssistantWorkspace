@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cards>
+  <name>Booster 1</name>
+  <key>Collections/Booster 1</key>
+  <comment></comment>
+  <type>collection</type>
+  <properties>
+    <property name="virtual" value="false"/>
+  </properties>
+  <list>
+    <mcp>
+      <card>
+        <id>386731</id>
+        <name>Zurgo Helmsmasher</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 1</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 17:53:19 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386498</id>
+        <name>Briber's Purse</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 1</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 17:53:32 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386654</id>
+        <name>Scion of Glaciers</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 1</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 17:53:53 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386661</id>
+        <name>Set Adrift</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 1</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 17:54:04 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386471</id>
+        <name>Ainok Bond-Kin</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 1</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 17:54:18 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386656</id>
+        <name>Scout the Borders</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 1</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 17:54:27 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386710</id>
+        <name>Unyielding Krumar</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 1</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 17:54:37 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386599</id>
+        <name>Mardu Warshrieker</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 1</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 17:54:45 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386698</id>
+        <name>Throttle</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 1</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 17:54:53 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386707</id>
+        <name>Tusked Colossodon</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 1</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 17:55:01 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386662</id>
+        <name>Shambling Attendants</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 1</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 17:55:13 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386587</id>
+        <name>Lens of Clarity</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 1</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 17:57:15 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386721</id>
+        <name>Wetland Sambar</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 1</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 17:58:25 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386534</id>
+        <name>Feat of Resistance</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 1</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 17:58:34 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386642</id>
+        <name>Rush of Battle</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 1</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 17:59:00 CEST 2021</date>
+    </mcp>
+  </list>
+</cards>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cards>
+  <name>Booster 5</name>
+  <key>Collections/Booster 5</key>
+  <comment></comment>
+  <type>collection</type>
+  <properties>
+    <property name="virtual" value="false"/>
+  </properties>
+  <list>
+    <mcp>
+      <card>
+        <id>386532</id>
+        <name>End Hostilities</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 5</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:54:02 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386547</id>
+        <name>Goblinslide</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 5</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:54:02 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386620</id>
+        <name>Opulent Palace</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 5</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:54:02 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386629</id>
+        <name>Quiet Contemplation</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 5</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:54:02 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386615</id>
+        <name>Mystic of the Hidden Way</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 5</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:54:02 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386607</id>
+        <name>Monastery Flock</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 5</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:54:02 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386669</id>
+        <name>Smite the Monstrous</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 5</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:54:02 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386474</id>
+        <name>Alpine Grizzly</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 5</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:54:02 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386594</id>
+        <name>Mardu Hateblade</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 5</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:54:02 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386579</id>
+        <name>Kheru Dreadmaw</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 5</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:54:02 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386703</id>
+        <name>Tranquil Cove</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 5</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:54:02 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386489</id>
+        <name>Bitter Revelation</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 5</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:54:02 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386514</id>
+        <name>Debilitating Injury</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 5</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:54:02 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386710</id>
+        <name>Unyielding Krumar</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 5</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:54:02 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386596</id>
+        <name>Mardu Hordechief</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 5</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:54:02 CEST 2021</date>
+    </mcp>
+  </list>
+</cards>

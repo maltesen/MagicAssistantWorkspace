@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cards>
+  <name>Booster 6</name>
+  <key>Collections/Booster 6</key>
+  <comment></comment>
+  <type>collection</type>
+  <properties>
+    <property name="virtual" value="false"/>
+  </properties>
+  <list>
+    <mcp>
+      <card>
+        <id>386590</id>
+        <name>Mardu Ascendancy</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 6</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:54:44 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386522</id>
+        <name>Dragon Grip</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 6</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:54:44 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386498</id>
+        <name>Briber's Purse</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 6</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:54:44 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386478</id>
+        <name>Arc Lightning</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 6</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:54:44 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386690</id>
+        <name>Taigam's Scheming</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 6</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:54:44 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386579</id>
+        <name>Kheru Dreadmaw</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 6</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:54:44 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386520</id>
+        <name>Dismal Backwater</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 6</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:54:44 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386577</id>
+        <name>Jungle Hollow</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 6</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:54:44 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386599</id>
+        <name>Mardu Warshrieker</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 6</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:54:44 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386642</id>
+        <name>Rush of Battle</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 6</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:54:44 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386721</id>
+        <name>Wetland Sambar</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 6</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:54:44 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386665</id>
+        <name>Sidisi's Pet</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 6</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:54:44 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386525</id>
+        <name>Dragonscale Boon</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 6</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:54:44 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386617</id>
+        <name>Naturalize</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 6</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:54:44 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386723</id>
+        <name>Wind-Scarred Crag</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 6</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:54:44 CEST 2021</date>
+    </mcp>
+  </list>
+</cards>

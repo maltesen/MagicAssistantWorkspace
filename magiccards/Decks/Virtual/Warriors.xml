@@ -130,51 +130,11 @@
     </mcp>
     <mcp>
       <card>
-        <id>386469</id>
-        <name>Abzan Guide</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>3</count>
-      <location>Decks/Virtual/Warriors</location>
-      <date>Mon Jun 07 11:16:22 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386645</id>
-        <name>Sage-Eye Harrier</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>3</count>
-      <location>Decks/Virtual/Warriors</location>
-      <date>Mon Jun 07 11:16:22 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386710</id>
-        <name>Unyielding Krumar</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Decks/Virtual/Warriors</location>
-      <date>Mon Jun 07 11:16:22 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
         <id>386642</id>
         <name>Rush of Battle</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>4</count>
-      <location>Decks/Virtual/Warriors</location>
-      <date>Mon Jun 07 11:16:22 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386669</id>
-        <name>Smite the Monstrous</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>4</count>
+      <count>3</count>
       <location>Decks/Virtual/Warriors</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
     </mcp>
@@ -194,27 +154,7 @@
         <name>Kill Shot</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>4</count>
-      <location>Decks/Virtual/Warriors</location>
-      <date>Mon Jun 07 11:16:22 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386660</id>
-        <name>Seeker of the Way</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
       <count>2</count>
-      <location>Decks/Virtual/Warriors</location>
-      <date>Mon Jun 07 11:16:22 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386598</id>
-        <name>Mardu Skullhunter</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
       <location>Decks/Virtual/Warriors</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
     </mcp>
@@ -224,17 +164,7 @@
         <name>Disowned Ancestor</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>4</count>
-      <location>Decks/Virtual/Warriors</location>
-      <date>Mon Jun 07 11:16:22 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386594</id>
-        <name>Mardu Hateblade</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
+      <count>3</count>
       <location>Decks/Virtual/Warriors</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
     </mcp>
@@ -244,7 +174,7 @@
         <name>Longshot Squad</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>3</count>
+      <count>1</count>
       <location>Decks/Virtual/Warriors</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
     </mcp>
@@ -287,6 +217,66 @@
       <count>2</count>
       <location>Decks/Virtual/Warriors</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386496</id>
+        <name>Blossoming Sands</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386655</id>
+        <name>Scoured Barrens</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386537</id>
+        <name>Flooded Strand</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386543</id>
+        <name>Forest</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Thu Jun 10 12:51:32 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386624</id>
+        <name>Plains</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>7</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Thu Jun 10 12:51:32 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386683</id>
+        <name>Swamp</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>5</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Thu Jun 10 12:51:32 CEST 2021</date>
     </mcp>
   </list>
 </cards>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cards>
+  <name>Warriors aussortiert</name>
+  <key>Decks/Virtual/Warriors aussortiert</key>
+  <comment></comment>
+  <type>deck</type>
+  <properties>
+    <property name="virtual" value="true"/>
+  </properties>
+  <list>
+    <mcp>
+      <card>
+        <id>386660</id>
+        <name>Seeker of the Way</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Decks/Virtual/Warriors aussortiert</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386469</id>
+        <name>Abzan Guide</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Decks/Virtual/Warriors aussortiert</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386598</id>
+        <name>Mardu Skullhunter</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Decks/Virtual/Warriors aussortiert</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386594</id>
+        <name>Mardu Hateblade</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Decks/Virtual/Warriors aussortiert</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386645</id>
+        <name>Sage-Eye Harrier</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Decks/Virtual/Warriors aussortiert</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386669</id>
+        <name>Smite the Monstrous</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Decks/Virtual/Warriors aussortiert</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386552</id>
+        <name>Heir of the Wilds</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Decks/Virtual/Warriors aussortiert</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+  </list>
+</cards>

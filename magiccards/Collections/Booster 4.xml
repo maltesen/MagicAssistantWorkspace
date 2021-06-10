@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cards>
+  <name>Booster 4</name>
+  <key>Collections/Booster 4</key>
+  <comment></comment>
+  <type>collection</type>
+  <properties>
+    <property name="virtual" value="false"/>
+  </properties>
+  <list>
+    <mcp>
+      <card>
+        <id>386571</id>
+        <name>Jeskai Ascendancy</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 4</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:53:07 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386544</id>
+        <name>Frontier Bivouac</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 4</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:53:07 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386562</id>
+        <name>Icefeather Aven</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 4</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:53:07 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386716</id>
+        <name>Warden of the Eye</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 4</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:53:07 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386546</id>
+        <name>Glacial Stalker</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 4</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:53:07 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386615</id>
+        <name>Mystic of the Hidden Way</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 4</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:53:07 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386712</id>
+        <name>Valley Dasher</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 4</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:53:07 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386678</id>
+        <name>Sultai Scavenger</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 4</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:53:07 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386599</id>
+        <name>Mardu Warshrieker</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 4</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:53:07 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386642</id>
+        <name>Rush of Battle</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 4</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:53:07 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386529</id>
+        <name>Efreet Weaponmaster</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 4</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:53:07 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386710</id>
+        <name>Unyielding Krumar</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 4</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:53:07 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386536</id>
+        <name>Firehoof Cavalry</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 4</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:53:07 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386528</id>
+        <name>Dutiful Return</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 4</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:53:07 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386667</id>
+        <name>Siegecraft</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Booster 4</location>
+      <ownership>true</ownership>
+      <date>Thu Jun 10 16:53:07 CEST 2021</date>
+    </mcp>
+  </list>
+</cards>
