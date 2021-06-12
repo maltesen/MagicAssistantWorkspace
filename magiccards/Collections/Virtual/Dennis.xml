@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <cards>
-  <name>Dennis</name>
-  <key>Collections/Dennis</key>
+  <name>Dennis-Official-nonVitrual</name>
+  <key>Collections/Virtual/Dennis</key>
   <comment></comment>
   <type>collection</type>
   <properties>
@@ -16,7 +16,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -26,7 +26,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -36,7 +36,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -46,7 +46,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -56,7 +56,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -66,7 +66,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -75,8 +75,8 @@
         <name>Sidisi, Brood Tyrant</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>3</count>
-      <location>Collections/Dennis</location>
+      <count>2</count>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -86,17 +86,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386483</id>
-        <name>Avalanche Tusker</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -106,7 +96,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -116,27 +106,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386570</id>
-        <name>Jeering Instigator</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386672</id>
-        <name>Sorin, Solemn Visitor</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -146,17 +116,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386550</id>
-        <name>Hardened Scales</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -166,7 +126,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>3</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -176,7 +136,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -186,7 +146,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -196,17 +156,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386513</id>
-        <name>Death Frenzy</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -216,7 +166,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -226,17 +176,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386622</id>
-        <name>Pine Walker</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -246,7 +186,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -256,7 +196,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -266,7 +206,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -276,7 +216,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -286,7 +226,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -296,7 +236,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -306,7 +246,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -316,17 +256,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386480</id>
-        <name>Armament Corps</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -336,7 +266,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -346,7 +276,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -356,7 +286,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -366,17 +296,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386595</id>
-        <name>Mardu Heart-Piercer</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -386,7 +306,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -396,7 +316,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -406,27 +326,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386638</id>
-        <name>Riverwheel Aerialists</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386608</id>
-        <name>Monastery Swiftspear</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>3</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -436,27 +336,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386719</id>
-        <name>Waterwhirl</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386661</id>
-        <name>Set Adrift</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -466,17 +346,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386573</id>
-        <name>Jeskai Charm</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -486,7 +356,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -496,7 +366,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -506,27 +376,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>3</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386544</id>
-        <name>Frontier Bivouac</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386524</id>
-        <name>Dragon's Eye Savants</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -536,17 +386,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386500</id>
-        <name>Burn Away</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -556,7 +396,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -566,17 +406,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>3</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386497</id>
-        <name>Brave the Sands</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -586,7 +416,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -596,17 +426,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386478</id>
-        <name>Arc Lightning</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -616,7 +436,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -626,7 +446,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>3</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -636,7 +456,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -646,7 +466,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -656,17 +476,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386613</id>
-        <name>Murderous Cut</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -676,7 +486,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -686,17 +496,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386667</id>
-        <name>Siegecraft</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -706,57 +506,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386680</id>
-        <name>Summit Prowler</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386598</id>
-        <name>Mardu Skullhunter</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386493</id>
-        <name>Bloodfire Mentor</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386582</id>
-        <name>Kill Shot</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386707</id>
-        <name>Tusked Colossodon</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -766,17 +516,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386696</id>
-        <name>Thornwood Falls</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -786,37 +526,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386617</id>
-        <name>Naturalize</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386652</id>
-        <name>Savage Punch</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386496</id>
-        <name>Blossoming Sands</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>4</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -826,7 +536,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -836,37 +546,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386470</id>
-        <name>Act of Treason</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386669</id>
-        <name>Smite the Monstrous</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386645</id>
-        <name>Sage-Eye Harrier</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -876,37 +556,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>3</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386662</id>
-        <name>Shambling Attendants</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386521</id>
-        <name>Disowned Ancestor</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386484</id>
-        <name>Awaken the Bear</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -916,47 +566,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386546</id>
-        <name>Glacial Stalker</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386715</id>
-        <name>War Behemoth</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>4</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386665</id>
-        <name>Sidisi's Pet</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386698</id>
-        <name>Throttle</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -966,7 +576,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>4</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -976,17 +586,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386648</id>
-        <name>Salt Road Patrol</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -996,37 +596,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386503</id>
-        <name>Canyon Lurkers</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386525</id>
-        <name>Dragonscale Boon</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>6</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386730</id>
-        <name>Woolly Loxodon</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>4</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1036,7 +606,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>4</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1046,17 +616,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>4</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386599</id>
-        <name>Mardu Warshrieker</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>4</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1066,17 +626,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386514</id>
-        <name>Debilitating Injury</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1086,17 +636,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>4</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386678</id>
-        <name>Sultai Scavenger</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>3</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1106,17 +646,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>5</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386534</id>
-        <name>Feat of Resistance</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1126,27 +656,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386721</id>
-        <name>Wetland Sambar</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386722</id>
-        <name>Whirlwind Adept</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1156,7 +666,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>3</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1166,17 +676,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386712</id>
-        <name>Valley Dasher</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>5</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1186,7 +686,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>4</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1196,38 +696,8 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>4</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386646</id>
-        <name>Sagu Archer</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>4</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386539</id>
-        <name>Force Away</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>5</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:26 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386586</id>
-        <name>Leaping Master</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:26 CEST 2021</date>
     </mcp>
     <mcp>
       <card>
@@ -1236,17 +706,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:26 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386577</id>
-        <name>Jungle Hollow</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>4</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:26 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1256,7 +716,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>4</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:26 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1266,17 +726,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:26 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386529</id>
-        <name>Efreet Weaponmaster</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>5</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:26 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1286,27 +736,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>5</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:26 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386628</id>
-        <name>Ponyback Brigade</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:26 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386528</id>
-        <name>Dutiful Return</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>3</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:26 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1316,17 +746,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>6</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:26 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386575</id>
-        <name>Jeskai Student</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:26 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1336,7 +756,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>4</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:26 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1346,37 +766,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>3</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:26 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386473</id>
-        <name>Alabaster Kirin</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>3</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:26 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386519</id>
-        <name>Disdainful Stroke</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>3</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:26 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386463</id>
-        <name>Abomination of Gudul</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>4</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:26 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1386,7 +776,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>6</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:26 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1396,7 +786,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:26 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1406,27 +796,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>5</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:26 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386587</id>
-        <name>Lens of Clarity</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>3</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:26 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386641</id>
-        <name>Rugged Highlands</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>7</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:26 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1436,17 +806,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>4</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:26 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386703</id>
-        <name>Tranquil Cove</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:26 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1456,17 +816,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>3</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:26 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386615</id>
-        <name>Mystic of the Hidden Way</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:26 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1476,7 +826,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>4</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:26 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1486,37 +836,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>8</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:26 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386479</id>
-        <name>Archers' Parapet</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>5</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:26 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386670</id>
-        <name>Smoke Teller</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:26 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386668</id>
-        <name>Singing Bell Strike</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>6</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:26 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1526,27 +846,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>3</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:26 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386465</id>
-        <name>Abzan Banner</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>3</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:26 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386689</id>
-        <name>Swiftwater Cliffs</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>3</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:26 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1556,18 +856,588 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Dennis</location>
+      <location>Collections/Virtual/Dennis</location>
       <date>Tue Jun 08 10:26:26 CEST 2021</date>
     </mcp>
     <mcp>
       <card>
-        <id>386653</id>
-        <name>Scaldkin</name>
+        <id>386518</id>
+        <name>Dig Through Time</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386483</id>
+        <name>Avalanche Tusker</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386526</id>
+        <name>Dragon-Style Twins</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386550</id>
+        <name>Hardened Scales</name>
         <edition>Khans of Tarkir</edition>
       </card>
       <count>3</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:26 CEST 2021</date>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386618</id>
+        <name>Necropolis Fiend</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386527</id>
+        <name>Duneblast</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386714</id>
+        <name>Villainous Wealth</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386608</id>
+        <name>Monastery Swiftspear</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386595</id>
+        <name>Mardu Heart-Piercer</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386497</id>
+        <name>Brave the Sands</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386691</id>
+        <name>Take Up Arms</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386719</id>
+        <name>Waterwhirl</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386488</id>
+        <name>Bellowing Saddlebrute</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386716</id>
+        <name>Warden of the Eye</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386524</id>
+        <name>Dragon's Eye Savants</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386478</id>
+        <name>Arc Lightning</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386573</id>
+        <name>Jeskai Charm</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386638</id>
+        <name>Riverwheel Aerialists</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386480</id>
+        <name>Armament Corps</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386661</id>
+        <name>Set Adrift</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386622</id>
+        <name>Pine Walker</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386544</id>
+        <name>Frontier Bivouac</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386552</id>
+        <name>Heir of the Wilds</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386500</id>
+        <name>Burn Away</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386560</id>
+        <name>Hordeling Outburst</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386513</id>
+        <name>Death Frenzy</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386613</id>
+        <name>Murderous Cut</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386519</id>
+        <name>Disdainful Stroke</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386665</id>
+        <name>Sidisi's Pet</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386528</id>
+        <name>Dutiful Return</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386479</id>
+        <name>Archers' Parapet</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>6</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386712</id>
+        <name>Valley Dasher</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>6</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386678</id>
+        <name>Sultai Scavenger</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>5</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386521</id>
+        <name>Disowned Ancestor</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386641</id>
+        <name>Rugged Highlands</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>8</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386577</id>
+        <name>Jungle Hollow</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>5</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386496</id>
+        <name>Blossoming Sands</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>5</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386582</id>
+        <name>Kill Shot</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386598</id>
+        <name>Mardu Skullhunter</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386473</id>
+        <name>Alabaster Kirin</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386470</id>
+        <name>Act of Treason</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386591</id>
+        <name>Mardu Banner</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386662</id>
+        <name>Shambling Attendants</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386715</id>
+        <name>War Behemoth</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>5</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386656</id>
+        <name>Scout the Borders</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386696</id>
+        <name>Thornwood Falls</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386615</id>
+        <name>Mystic of the Hidden Way</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386546</id>
+        <name>Glacial Stalker</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386463</id>
+        <name>Abomination of Gudul</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>5</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386575</id>
+        <name>Jeskai Student</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386730</id>
+        <name>Woolly Loxodon</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>7</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386703</id>
+        <name>Tranquil Cove</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386721</id>
+        <name>Wetland Sambar</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386586</id>
+        <name>Leaping Master</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386670</id>
+        <name>Smoke Teller</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386617</id>
+        <name>Naturalize</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386669</id>
+        <name>Smite the Monstrous</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>5</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386698</id>
+        <name>Throttle</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>5</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
     </mcp>
     <mcp>
       <card>
@@ -1575,29 +1445,19 @@
         <name>Tormenting Voice</name>
         <edition>Khans of Tarkir</edition>
       </card>
+      <count>3</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386693</id>
+        <name>Temur Banner</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
       <count>2</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:26 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386558</id>
-        <name>Hooting Mandrills</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>3</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:26 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386555</id>
-        <name>Highland Game</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>3</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:26 CEST 2021</date>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
     </mcp>
     <mcp>
       <card>
@@ -1605,9 +1465,289 @@
         <name>Kin-Tree Warden</name>
         <edition>Khans of Tarkir</edition>
       </card>
+      <count>3</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386465</id>
+        <name>Abzan Banner</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>5</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386525</id>
+        <name>Dragonscale Boon</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>7</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386645</id>
+        <name>Sage-Eye Harrier</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
       <count>2</count>
-      <location>Collections/Dennis</location>
-      <date>Tue Jun 08 10:26:26 CEST 2021</date>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386722</id>
+        <name>Whirlwind Adept</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386599</id>
+        <name>Mardu Warshrieker</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>5</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386555</id>
+        <name>Highland Game</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386539</id>
+        <name>Force Away</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>7</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386668</id>
+        <name>Singing Bell Strike</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>8</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386667</id>
+        <name>Siegecraft</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386587</id>
+        <name>Lens of Clarity</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>5</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386484</id>
+        <name>Awaken the Bear</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386689</id>
+        <name>Swiftwater Cliffs</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>5</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386707</id>
+        <name>Tusked Colossodon</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386558</id>
+        <name>Hooting Mandrills</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386514</id>
+        <name>Debilitating Injury</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386485</id>
+        <name>Barrage of Boulders</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386529</id>
+        <name>Efreet Weaponmaster</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>6</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386503</id>
+        <name>Canyon Lurkers</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386534</id>
+        <name>Feat of Resistance</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386637</id>
+        <name>Rite of the Serpent</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386653</id>
+        <name>Scaldkin</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>5</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386648</id>
+        <name>Salt Road Patrol</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386628</id>
+        <name>Ponyback Brigade</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386646</id>
+        <name>Sagu Archer</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>5</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386652</id>
+        <name>Savage Punch</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>5</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386493</id>
+        <name>Bloodfire Mentor</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386680</id>
+        <name>Summit Prowler</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386570</id>
+        <name>Jeering Instigator</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Dennis</location>
+      <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
   </list>
 </cards>

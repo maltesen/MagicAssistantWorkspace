@@ -5,6 +5,7 @@
   <comment></comment>
   <type>deck</type>
   <properties>
+    <property name="readonly" value="true"/>
     <property name="virtual" value="false"/>
   </properties>
   <list>
