@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <cards>
-  <name>Patricks</name>
-  <key>Collections/Patricks</key>
+  <name>KAHHHHHN</name>
+  <key>Collections/Virtual/Patricks</key>
   <comment></comment>
   <type>collection</type>
   <properties>
@@ -11,22 +11,12 @@
   <list>
     <mcp>
       <card>
-        <id>386553</id>
-        <name>Herald of Anafenza</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:51 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
         <id>386526</id>
         <name>Dragon-Style Twins</name>
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -36,7 +26,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -46,7 +36,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -56,17 +46,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:51 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386692</id>
-        <name>Temur Ascendancy</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -76,7 +56,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -86,7 +66,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -96,7 +76,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -106,7 +86,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -116,7 +96,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -126,17 +106,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>3</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:51 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386464</id>
-        <name>Abzan Ascendancy</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -146,7 +116,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -156,7 +126,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -166,7 +136,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>3</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -176,7 +146,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -186,7 +156,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -196,7 +166,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -206,17 +176,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:51 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386547</id>
-        <name>Goblinslide</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -226,7 +186,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -236,7 +196,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -246,7 +206,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -256,7 +216,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -266,7 +226,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -276,7 +236,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -286,17 +246,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:51 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386574</id>
-        <name>Jeskai Elder</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -306,7 +256,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -316,7 +266,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -326,7 +276,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -336,17 +286,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:51 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386727</id>
-        <name>Winterflame</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -356,17 +296,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:51 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386486</id>
-        <name>Bear's Companion</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -376,27 +306,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:51 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386614</id>
-        <name>Mystic Monastery</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:51 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386708</id>
-        <name>Tuskguard Captain</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -406,7 +316,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -416,17 +326,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:51 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386522</id>
-        <name>Dragon Grip</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>3</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -436,7 +336,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -446,7 +346,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -456,7 +356,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>4</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -466,7 +366,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -476,7 +376,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>3</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -486,7 +386,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -496,7 +396,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -506,7 +406,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>3</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -516,7 +416,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -526,7 +426,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -536,7 +436,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -546,17 +446,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:51 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386500</id>
-        <name>Burn Away</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -566,7 +456,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -576,7 +466,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>3</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -586,7 +476,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -596,7 +486,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -606,17 +496,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:51 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386595</id>
-        <name>Mardu Heart-Piercer</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -626,7 +506,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -636,7 +516,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -646,17 +526,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>3</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:51 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386466</id>
-        <name>Abzan Battle Priest</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -666,17 +536,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>3</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:51 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386643</id>
-        <name>Ruthless Ripper</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -686,17 +546,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:51 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386722</id>
-        <name>Whirlwind Adept</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
@@ -706,7 +556,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -716,7 +566,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -726,47 +576,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386492</id>
-        <name>Bloodfire Expert</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386591</id>
-        <name>Mardu Banner</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>3</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386502</id>
-        <name>Cancel</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386472</id>
-        <name>Ainok Tracker</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -776,7 +586,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -786,27 +596,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>3</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386528</id>
-        <name>Dutiful Return</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386585</id>
-        <name>Krumar Bond-Kin</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -816,17 +606,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386584</id>
-        <name>Kin-Tree Warden</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -836,7 +616,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -846,37 +626,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386470</id>
-        <name>Act of Treason</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386652</id>
-        <name>Savage Punch</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386607</id>
-        <name>Monastery Flock</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -886,7 +636,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -896,7 +646,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -906,7 +656,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -916,7 +666,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>4</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -926,7 +676,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -936,7 +686,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -946,47 +696,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>3</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386530</id>
-        <name>Embodiment of Spring</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386582</id>
-        <name>Kill Shot</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>4</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386491</id>
-        <name>Bloodfell Caves</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386678</id>
-        <name>Sultai Scavenger</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -996,7 +706,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>3</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1006,7 +716,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>4</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1016,7 +726,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>4</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1026,37 +736,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>3</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386706</id>
-        <name>Trumpet Blast</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>4</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386577</id>
-        <name>Jungle Hollow</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386645</id>
-        <name>Sage-Eye Harrier</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>3</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1066,17 +746,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386479</id>
-        <name>Archers' Parapet</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1086,7 +756,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1096,17 +766,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>5</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386473</id>
-        <name>Alabaster Kirin</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>3</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1116,17 +776,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386665</id>
-        <name>Sidisi's Pet</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>5</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1136,7 +786,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>3</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1146,57 +796,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>3</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386703</id>
-        <name>Tranquil Cove</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>7</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386615</id>
-        <name>Mystic of the Hidden Way</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>4</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386493</id>
-        <name>Bloodfire Mentor</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>5</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386693</id>
-        <name>Temur Banner</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>5</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386503</id>
-        <name>Canyon Lurkers</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1206,17 +806,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>4</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386575</id>
-        <name>Jeskai Student</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>3</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1226,17 +816,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>4</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386499</id>
-        <name>Bring Low</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1246,37 +826,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>3</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386481</id>
-        <name>Arrow Storm</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386707</id>
-        <name>Tusked Colossodon</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>5</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386515</id>
-        <name>Defiant Strike</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>3</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1286,7 +836,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1296,7 +846,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>7</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1306,67 +856,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386701</id>
-        <name>Tormenting Voice</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>5</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386596</id>
-        <name>Mardu Hordechief</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>7</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386648</id>
-        <name>Salt Road Patrol</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386663</id>
-        <name>Shatter</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>3</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386533</id>
-        <name>Erase</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386514</id>
-        <name>Debilitating Injury</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>4</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1376,27 +866,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>7</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386670</id>
-        <name>Smoke Teller</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386675</id>
-        <name>Sultai Banner</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1406,17 +876,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386519</id>
-        <name>Disdainful Stroke</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1426,17 +886,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>4</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386655</id>
-        <name>Scoured Barrens</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>4</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1446,57 +896,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>4</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386690</id>
-        <name>Taigam's Scheming</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>5</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386633</id>
-        <name>Rakshasa's Secret</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>7</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386529</id>
-        <name>Efreet Weaponmaster</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>3</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386572</id>
-        <name>Jeskai Banner</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>3</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386536</id>
-        <name>Firehoof Cavalry</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>3</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1506,7 +906,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1516,7 +916,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>5</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1526,7 +926,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>5</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1536,17 +936,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>5</count>
-      <location>Collections/Patricks</location>
-      <date>Tue Jun 08 21:49:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386546</id>
-        <name>Glacial Stalker</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>5</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1556,7 +946,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>4</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1566,7 +956,7 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>3</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1576,8 +966,718 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>5</count>
-      <location>Collections/Patricks</location>
+      <location>Collections/Virtual/Patricks</location>
       <date>Tue Jun 08 21:49:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386528</id>
+        <name>Dutiful Return</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386643</id>
+        <name>Ruthless Ripper</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>5</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386514</id>
+        <name>Debilitating Injury</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>5</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386585</id>
+        <name>Krumar Bond-Kin</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386633</id>
+        <name>Rakshasa's Secret</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>8</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386665</id>
+        <name>Sidisi's Pet</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>6</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386678</id>
+        <name>Sultai Scavenger</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386722</id>
+        <name>Whirlwind Adept</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386690</id>
+        <name>Taigam's Scheming</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>6</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386615</id>
+        <name>Mystic of the Hidden Way</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>5</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386546</id>
+        <name>Glacial Stalker</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>8</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386607</id>
+        <name>Monastery Flock</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386530</id>
+        <name>Embodiment of Spring</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386519</id>
+        <name>Disdainful Stroke</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386502</id>
+        <name>Cancel</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386574</id>
+        <name>Jeskai Elder</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386604</id>
+        <name>Mindswipe</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386727</id>
+        <name>Winterflame</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386692</id>
+        <name>Temur Ascendancy</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386704</id>
+        <name>Trap Essence</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386486</id>
+        <name>Bear's Companion</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386498</id>
+        <name>Briber's Purse</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386572</id>
+        <name>Jeskai Banner</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386591</id>
+        <name>Mardu Banner</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386675</id>
+        <name>Sultai Banner</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>5</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386693</id>
+        <name>Temur Banner</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>6</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386639</id>
+        <name>Roar of Challenge</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386708</id>
+        <name>Tuskguard Captain</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386479</id>
+        <name>Archers' Parapet</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386558</id>
+        <name>Hooting Mandrills</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386584</id>
+        <name>Kin-Tree Warden</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386652</id>
+        <name>Savage Punch</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386670</id>
+        <name>Smoke Teller</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386707</id>
+        <name>Tusked Colossodon</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>6</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386500</id>
+        <name>Burn Away</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386522</id>
+        <name>Dragon Grip</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386547</id>
+        <name>Goblinslide</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386595</id>
+        <name>Mardu Heart-Piercer</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386470</id>
+        <name>Act of Treason</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386472</id>
+        <name>Ainok Tracker</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386481</id>
+        <name>Arrow Storm</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386492</id>
+        <name>Bloodfire Expert</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386493</id>
+        <name>Bloodfire Mentor</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>7</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386499</id>
+        <name>Bring Low</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>5</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386503</id>
+        <name>Canyon Lurkers</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386663</id>
+        <name>Shatter</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>5</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386701</id>
+        <name>Tormenting Voice</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>8</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386706</id>
+        <name>Trumpet Blast</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>5</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386553</id>
+        <name>Herald of Anafenza</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386466</id>
+        <name>Abzan Battle Priest</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386473</id>
+        <name>Alabaster Kirin</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386515</id>
+        <name>Defiant Strike</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386533</id>
+        <name>Erase</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386536</id>
+        <name>Firehoof Cavalry</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386575</id>
+        <name>Jeskai Student</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386582</id>
+        <name>Kill Shot</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>5</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386596</id>
+        <name>Mardu Hordechief</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>8</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386645</id>
+        <name>Sage-Eye Harrier</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386648</id>
+        <name>Salt Road Patrol</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386667</id>
+        <name>Siegecraft</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386573</id>
+        <name>Jeskai Charm</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386529</id>
+        <name>Efreet Weaponmaster</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386614</id>
+        <name>Mystic Monastery</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386491</id>
+        <name>Bloodfell Caves</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386577</id>
+        <name>Jungle Hollow</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386655</id>
+        <name>Scoured Barrens</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>5</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386703</id>
+        <name>Tranquil Cove</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>9</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386562</id>
+        <name>Icefeather Aven</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386636</id>
+        <name>Ride Down</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386464</id>
+        <name>Abzan Ascendancy</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386731</id>
+        <name>Zurgo Helmsmasher</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/Patricks</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
     </mcp>
   </list>
 </cards>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cards>
+  <name>WILL!</name>
+  <key>Collections/Virtual/patrick will haben</key>
+  <comment></comment>
+  <type>deck</type>
+  <properties>
+    <property name="virtual" value="false"/>
+  </properties>
+  <list>
+    <mcp>
+      <card>
+        <id>386621</id>
+        <name>Pearl Lake Ancient</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/patrick will haben</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386518</id>
+        <name>Dig Through Time</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/patrick will haben</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386502</id>
+        <name>Cancel</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/patrick will haben</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386519</id>
+        <name>Disdainful Stroke</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/patrick will haben</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386678</id>
+        <name>Sultai Scavenger</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/patrick will haben</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386676</id>
+        <name>Sultai Charm</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/patrick will haben</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386532</id>
+        <name>End Hostilities</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/patrick will haben</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386711</id>
+        <name>Utter End</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/patrick will haben</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386464</id>
+        <name>Abzan Ascendancy</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/patrick will haben</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386656</id>
+        <name>Scout the Borders</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/patrick will haben</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+  </list>
+</cards>

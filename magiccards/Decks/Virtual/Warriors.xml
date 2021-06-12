@@ -14,7 +14,7 @@
         <name>End Hostilities</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>1</count>
+      <count>2</count>
       <location>Decks/Virtual/Warriors</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
     </mcp>
@@ -144,7 +144,7 @@
         <name>Mardu Hordechief</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>4</count>
+      <count>3</count>
       <location>Decks/Virtual/Warriors</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
     </mcp>
@@ -164,7 +164,7 @@
         <name>Disowned Ancestor</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>3</count>
+      <count>2</count>
       <location>Decks/Virtual/Warriors</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
     </mcp>
@@ -184,7 +184,7 @@
         <name>Ainok Bond-Kin</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>1</count>
+      <count>2</count>
       <location>Decks/Virtual/Warriors</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
     </mcp>
@@ -194,7 +194,7 @@
         <name>Mer-Ek Nightblade</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>2</count>
+      <count>1</count>
       <location>Decks/Virtual/Warriors</location>
       <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
@@ -207,16 +207,6 @@
       <count>3</count>
       <location>Decks/Virtual/Warriors</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386468</id>
-        <name>Abzan Falconer</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Decks/Virtual/Warriors</location>
-      <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
     <mcp>
       <card>
@@ -277,6 +267,26 @@
       <count>5</count>
       <location>Decks/Virtual/Warriors</location>
       <date>Thu Jun 10 12:51:32 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386534</id>
+        <name>Feat of Resistance</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Thu Jun 10 17:57:57 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386515</id>
+        <name>Defiant Strike</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Thu Jun 10 17:57:35 CEST 2021</date>
     </mcp>
   </list>
 </cards>

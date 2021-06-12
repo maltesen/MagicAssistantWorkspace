@@ -90,16 +90,6 @@
     </mcp>
     <mcp>
       <card>
-        <id>386690</id>
-        <name>Taigam's Scheming</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Decks/Virtual/BuG</location>
-      <date>Mon Jun 07 11:16:22 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
         <id>386676</id>
         <name>Sultai Charm</name>
         <edition>Khans of Tarkir</edition>
@@ -144,7 +134,7 @@
         <name>Forest</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>6</count>
+      <count>5</count>
       <location>Decks/Virtual/BuG</location>
       <date>Tue Jun 08 16:00:05 CEST 2021</date>
     </mcp>
@@ -174,7 +164,7 @@
         <name>Molting Snakeskin</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>2</count>
+      <count>1</count>
       <location>Decks/Virtual/BuG</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
     </mcp>
@@ -214,7 +204,7 @@
         <name>Sultai Soothsayer</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>2</count>
+      <count>3</count>
       <location>Decks/Virtual/BuG</location>
       <date>Mon Jun 07 11:24:52 CEST 2021</date>
     </mcp>
@@ -224,7 +214,7 @@
         <name>Opulent Palace</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>1</count>
+      <count>2</count>
       <location>Decks/Virtual/BuG</location>
       <date>Mon Jun 07 11:24:52 CEST 2021</date>
     </mcp>
@@ -274,7 +264,7 @@
         <name>Scout the Borders</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>2</count>
+      <count>3</count>
       <location>Decks/Virtual/BuG</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
     </mcp>
@@ -297,6 +287,16 @@
       <count>1</count>
       <location>Decks/Virtual/BuG</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386487</id>
+        <name>Become Immense</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Decks/Virtual/BuG</location>
+      <date>Thu Jun 10 17:56:47 CEST 2021</date>
     </mcp>
   </list>
 </cards>

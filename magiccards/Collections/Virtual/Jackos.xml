@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <cards>
-  <name>Jackos</name>
+  <name>Khans of Tarkir 24B</name>
   <key>Collections/Virtual/Jackos</key>
   <comment></comment>
   <type>collection</type>
   <properties>
     <property name="readonly" value="true"/>
-    <property name="virtual" value="false"/>
+    <property name="virtual" value="true"/>
   </properties>
   <list>
     <mcp>
@@ -111,6 +111,16 @@
     </mcp>
     <mcp>
       <card>
+        <id>386580</id>
+        <name>Kheru Lich Lord</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
         <id>386725</id>
         <name>Windswept Heath</name>
         <edition>Khans of Tarkir</edition>
@@ -123,16 +133,6 @@
       <card>
         <id>386632</id>
         <name>Rakshasa Vizier</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386726</id>
-        <name>Wingmate Roc</name>
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
@@ -161,31 +161,11 @@
     </mcp>
     <mcp>
       <card>
-        <id>386647</id>
-        <name>Sagu Mauler</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
         <id>386561</id>
         <name>Howl of the Horde</name>
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386527</id>
-        <name>Duneblast</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
       <location>Collections/Virtual/Jackos</location>
       <date>Mon Jun 07 11:24:52 CEST 2021</date>
     </mcp>
@@ -251,38 +231,8 @@
     </mcp>
     <mcp>
       <card>
-        <id>386560</id>
-        <name>Hordeling Outburst</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386601</id>
-        <name>Master the Way</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
         <id>386512</id>
         <name>Dead Drop</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386504</id>
-        <name>Chief of the Edge</name>
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
@@ -471,51 +421,11 @@
     </mcp>
     <mcp>
       <card>
-        <id>386727</id>
-        <name>Winterflame</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386498</id>
-        <name>Briber's Purse</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
         <id>386691</id>
         <name>Take Up Arms</name>
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386643</id>
-        <name>Ruthless Ripper</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>3</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386517</id>
-        <name>Despise</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
       <location>Collections/Virtual/Jackos</location>
       <date>Mon Jun 07 11:24:52 CEST 2021</date>
     </mcp>
@@ -531,28 +441,8 @@
     </mcp>
     <mcp>
       <card>
-        <id>386549</id>
-        <name>Gurmag Swiftwing</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
         <id>386466</id>
         <name>Abzan Battle Priest</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386673</id>
-        <name>Stubborn Denial</name>
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
@@ -611,16 +501,6 @@
     </mcp>
     <mcp>
       <card>
-        <id>386713</id>
-        <name>Venerable Lammasu</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
         <id>386592</id>
         <name>Mardu Blazebringer</name>
         <edition>Khans of Tarkir</edition>
@@ -661,41 +541,11 @@
     </mcp>
     <mcp>
       <card>
-        <id>386688</id>
-        <name>Swift Kick</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386489</id>
-        <name>Bitter Revelation</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
         <id>386655</id>
         <name>Scoured Barrens</name>
         <edition>Khans of Tarkir</edition>
       </card>
       <count>3</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386586</id>
-        <name>Leaping Master</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
       <location>Collections/Virtual/Jackos</location>
       <date>Mon Jun 07 11:24:52 CEST 2021</date>
     </mcp>
@@ -711,98 +561,8 @@
     </mcp>
     <mcp>
       <card>
-        <id>386617</id>
-        <name>Naturalize</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
         <id>386596</id>
         <name>Mardu Hordechief</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>3</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386536</id>
-        <name>Firehoof Cavalry</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386705</id>
-        <name>Treasure Cruise</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386485</id>
-        <name>Barrage of Boulders</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>6</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386499</id>
-        <name>Bring Low</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386496</id>
-        <name>Blossoming Sands</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386479</id>
-        <name>Archers' Parapet</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386481</id>
-        <name>Arrow Storm</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386707</id>
-        <name>Tusked Colossodon</name>
         <edition>Khans of Tarkir</edition>
       </card>
       <count>3</count>
@@ -823,16 +583,6 @@
       <card>
         <id>386615</id>
         <name>Mystic of the Hidden Way</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386514</id>
-        <name>Debilitating Injury</name>
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
@@ -871,26 +621,6 @@
     </mcp>
     <mcp>
       <card>
-        <id>386575</id>
-        <name>Jeskai Student</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386533</id>
-        <name>Erase</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
         <id>386689</id>
         <name>Swiftwater Cliffs</name>
         <edition>Khans of Tarkir</edition>
@@ -911,58 +641,8 @@
     </mcp>
     <mcp>
       <card>
-        <id>386698</id>
-        <name>Throttle</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386519</id>
-        <name>Disdainful Stroke</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386591</id>
-        <name>Mardu Banner</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>5</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386528</id>
-        <name>Dutiful Return</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>3</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
         <id>386471</id>
         <name>Ainok Bond-Kin</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386656</id>
-        <name>Scout the Borders</name>
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
@@ -1011,41 +691,11 @@
     </mcp>
     <mcp>
       <card>
-        <id>386607</id>
-        <name>Monastery Flock</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>5</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
         <id>386588</id>
         <name>Longshot Squad</name>
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386633</id>
-        <name>Rakshasa's Secret</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>3</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386579</id>
-        <name>Kheru Dreadmaw</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
       <location>Collections/Virtual/Jackos</location>
       <date>Mon Jun 07 11:24:52 CEST 2021</date>
     </mcp>
@@ -1063,16 +713,6 @@
       <card>
         <id>386712</id>
         <name>Valley Dasher</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>3</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386642</id>
-        <name>Rush of Battle</name>
         <edition>Khans of Tarkir</edition>
       </card>
       <count>3</count>
@@ -1101,61 +741,11 @@
     </mcp>
     <mcp>
       <card>
-        <id>386693</id>
-        <name>Temur Banner</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>4</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386491</id>
-        <name>Bloodfell Caves</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>4</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386473</id>
-        <name>Alabaster Kirin</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>5</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386637</id>
-        <name>Rite of the Serpent</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>4</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
         <id>386463</id>
         <name>Abomination of Gudul</name>
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386558</id>
-        <name>Hooting Mandrills</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>5</count>
       <location>Collections/Virtual/Jackos</location>
       <date>Mon Jun 07 11:24:52 CEST 2021</date>
     </mcp>
@@ -1181,26 +771,6 @@
     </mcp>
     <mcp>
       <card>
-        <id>386670</id>
-        <name>Smoke Teller</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>5</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386535</id>
-        <name>Feed the Clan</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>4</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
         <id>386530</id>
         <name>Embodiment of Spring</name>
         <edition>Khans of Tarkir</edition>
@@ -1216,16 +786,6 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386669</id>
-        <name>Smite the Monstrous</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
       <location>Collections/Virtual/Jackos</location>
       <date>Mon Jun 07 11:24:52 CEST 2021</date>
     </mcp>
@@ -1261,16 +821,6 @@
     </mcp>
     <mcp>
       <card>
-        <id>386582</id>
-        <name>Kill Shot</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>7</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
         <id>386628</id>
         <name>Ponyback Brigade</name>
         <edition>Khans of Tarkir</edition>
@@ -1283,16 +833,6 @@
       <card>
         <id>386648</id>
         <name>Salt Road Patrol</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>4</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386680</id>
-        <name>Summit Prowler</name>
         <edition>Khans of Tarkir</edition>
       </card>
       <count>4</count>
@@ -1351,16 +891,6 @@
     </mcp>
     <mcp>
       <card>
-        <id>386662</id>
-        <name>Shambling Attendants</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
         <id>386696</id>
         <name>Thornwood Falls</name>
         <edition>Khans of Tarkir</edition>
@@ -1373,26 +903,6 @@
       <card>
         <id>386675</id>
         <name>Sultai Banner</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>4</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386703</id>
-        <name>Tranquil Cove</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>3</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386665</id>
-        <name>Sidisi's Pet</name>
         <edition>Khans of Tarkir</edition>
       </card>
       <count>4</count>
@@ -1431,41 +941,11 @@
     </mcp>
     <mcp>
       <card>
-        <id>386652</id>
-        <name>Savage Punch</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386710</id>
-        <name>Unyielding Krumar</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
         <id>386572</id>
         <name>Jeskai Banner</name>
         <edition>Khans of Tarkir</edition>
       </card>
       <count>3</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386502</id>
-        <name>Cancel</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>6</count>
       <location>Collections/Virtual/Jackos</location>
       <date>Mon Jun 07 11:24:52 CEST 2021</date>
     </mcp>
@@ -1486,16 +966,6 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>3</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386599</id>
-        <name>Mardu Warshrieker</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
       <location>Collections/Virtual/Jackos</location>
       <date>Mon Jun 07 11:24:52 CEST 2021</date>
     </mcp>
@@ -1527,6 +997,7 @@
       </card>
       <count>1</count>
       <location>Collections/Virtual/Jackos</location>
+      <ownership>true</ownership>
       <date>Mon Jun 07 19:41:12 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1537,6 +1008,7 @@
       </card>
       <count>1</count>
       <location>Collections/Virtual/Jackos</location>
+      <ownership>true</ownership>
       <date>Mon Jun 07 19:41:22 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1547,6 +1019,7 @@
       </card>
       <count>1</count>
       <location>Collections/Virtual/Jackos</location>
+      <ownership>true</ownership>
       <date>Mon Jun 07 19:41:31 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1557,6 +1030,7 @@
       </card>
       <count>1</count>
       <location>Collections/Virtual/Jackos</location>
+      <ownership>true</ownership>
       <date>Mon Jun 07 19:41:46 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1567,6 +1041,7 @@
       </card>
       <count>1</count>
       <location>Collections/Virtual/Jackos</location>
+      <ownership>true</ownership>
       <date>Mon Jun 07 19:42:38 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1577,6 +1052,7 @@
       </card>
       <count>1</count>
       <location>Collections/Virtual/Jackos</location>
+      <ownership>true</ownership>
       <date>Mon Jun 07 19:43:05 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1587,6 +1063,7 @@
       </card>
       <count>1</count>
       <location>Collections/Virtual/Jackos</location>
+      <ownership>true</ownership>
       <date>Mon Jun 07 19:43:10 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1597,6 +1074,7 @@
       </card>
       <count>1</count>
       <location>Collections/Virtual/Jackos</location>
+      <ownership>true</ownership>
       <date>Mon Jun 07 19:43:17 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1607,6 +1085,7 @@
       </card>
       <count>1</count>
       <location>Collections/Virtual/Jackos</location>
+      <ownership>true</ownership>
       <date>Mon Jun 07 19:43:22 CEST 2021</date>
     </mcp>
     <mcp>
@@ -1626,26 +1105,6 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:16:22 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386580</id>
-        <name>Kheru Lich Lord</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:24:52 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386695</id>
-        <name>Temur Charm</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
       <location>Collections/Virtual/Jackos</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
     </mcp>
@@ -1671,13 +1130,663 @@
     </mcp>
     <mcp>
       <card>
-        <id>386534</id>
-        <name>Feat of Resistance</name>
+        <id>386647</id>
+        <name>Sagu Mauler</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386482</id>
+        <name>Ashcloud Phoenix</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386616</id>
+        <name>Narset, Enlightened Master</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386621</id>
+        <name>Pearl Lake Ancient</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386726</id>
+        <name>Wingmate Roc</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386527</id>
+        <name>Duneblast</name>
         <edition>Khans of Tarkir</edition>
       </card>
       <count>3</count>
       <location>Collections/Virtual/Jackos</location>
-      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386590</id>
+        <name>Mardu Ascendancy</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386486</id>
+        <name>Bear's Companion</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386498</id>
+        <name>Briber's Purse</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386504</id>
+        <name>Chief of the Edge</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386549</id>
+        <name>Gurmag Swiftwing</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386556</id>
+        <name>Highspire Mantis</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386560</id>
+        <name>Hordeling Outburst</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386583</id>
+        <name>Kin-Tree Invocation</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386601</id>
+        <name>Master the Way</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386614</id>
+        <name>Mystic Monastery</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386643</id>
+        <name>Ruthless Ripper</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386673</id>
+        <name>Stubborn Denial</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386695</id>
+        <name>Temur Charm</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386713</id>
+        <name>Venerable Lammasu</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386727</id>
+        <name>Winterflame</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386473</id>
+        <name>Alabaster Kirin</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>7</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386479</id>
+        <name>Archers' Parapet</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>5</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386481</id>
+        <name>Arrow Storm</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386485</id>
+        <name>Barrage of Boulders</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>7</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386489</id>
+        <name>Bitter Revelation</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386491</id>
+        <name>Bloodfell Caves</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>5</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386496</id>
+        <name>Blossoming Sands</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386499</id>
+        <name>Bring Low</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386502</id>
+        <name>Cancel</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>7</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386514</id>
+        <name>Debilitating Injury</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386519</id>
+        <name>Disdainful Stroke</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386528</id>
+        <name>Dutiful Return</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>5</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386533</id>
+        <name>Erase</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386534</id>
+        <name>Feat of Resistance</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>5</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386535</id>
+        <name>Feed the Clan</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>5</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386536</id>
+        <name>Firehoof Cavalry</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386558</id>
+        <name>Hooting Mandrills</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>6</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386575</id>
+        <name>Jeskai Student</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386579</id>
+        <name>Kheru Dreadmaw</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386582</id>
+        <name>Kill Shot</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>8</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386586</id>
+        <name>Leaping Master</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386591</id>
+        <name>Mardu Banner</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>6</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386599</id>
+        <name>Mardu Warshrieker</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386607</id>
+        <name>Monastery Flock</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>6</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386617</id>
+        <name>Naturalize</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386633</id>
+        <name>Rakshasa's Secret</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386637</id>
+        <name>Rite of the Serpent</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>5</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386642</id>
+        <name>Rush of Battle</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>5</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386652</id>
+        <name>Savage Punch</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386656</id>
+        <name>Scout the Borders</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386662</id>
+        <name>Shambling Attendants</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386665</id>
+        <name>Sidisi's Pet</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>9</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386669</id>
+        <name>Smite the Monstrous</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386670</id>
+        <name>Smoke Teller</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>8</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386680</id>
+        <name>Summit Prowler</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>6</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386688</id>
+        <name>Swift Kick</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386690</id>
+        <name>Taigam's Scheming</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>6</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386693</id>
+        <name>Temur Banner</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>5</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386698</id>
+        <name>Throttle</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386703</id>
+        <name>Tranquil Cove</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386705</id>
+        <name>Treasure Cruise</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386707</id>
+        <name>Tusked Colossodon</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386710</id>
+        <name>Unyielding Krumar</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386721</id>
+        <name>Wetland Sambar</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386517</id>
+        <name>Despise</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/Jackos</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
     </mcp>
   </list>
 </cards>
