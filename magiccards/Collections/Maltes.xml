@@ -1309,17 +1309,6 @@
     </mcp>
     <mcp>
       <card>
-        <id>386544</id>
-        <name>Frontier Bivouac</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Collections/Maltes</location>
-      <ownership>true</ownership>
-      <date>Thu Jun 10 16:53:07 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
         <id>386528</id>
         <name>Dutiful Return</name>
         <edition>Khans of Tarkir</edition>
@@ -1676,7 +1665,7 @@
         <name>Take Up Arms</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>2</count>
+      <count>3</count>
       <location>Collections/Maltes</location>
       <ownership>true</ownership>
       <date>Fri Jun 11 15:36:55 CEST 2021</date>
@@ -1720,7 +1709,7 @@
         <name>Hordeling Outburst</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>2</count>
+      <count>3</count>
       <location>Collections/Maltes</location>
       <ownership>true</ownership>
       <date>Fri Jun 11 15:36:55 CEST 2021</date>

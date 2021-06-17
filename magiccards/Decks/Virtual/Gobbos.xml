@@ -25,17 +25,7 @@
         <name>Wind-Scarred Crag</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>3</count>
-      <location>Decks/Virtual/Gobbos</location>
-      <date>Mon Jun 07 11:16:22 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386608</id>
-        <name>Monastery Swiftspear</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
+      <count>2</count>
       <location>Decks/Virtual/Gobbos</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
     </mcp>
@@ -61,31 +51,11 @@
     </mcp>
     <mcp>
       <card>
-        <id>386504</id>
-        <name>Chief of the Edge</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Decks/Virtual/Gobbos</location>
-      <date>Mon Jun 07 11:16:22 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
         <id>386636</id>
         <name>Ride Down</name>
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
-      <location>Decks/Virtual/Gobbos</location>
-      <date>Mon Jun 07 11:16:22 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386596</id>
-        <name>Mardu Hordechief</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
       <location>Decks/Virtual/Gobbos</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
     </mcp>
@@ -105,7 +75,7 @@
         <name>Goblinslide</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>2</count>
+      <count>3</count>
       <location>Decks/Virtual/Gobbos</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
     </mcp>
@@ -115,17 +85,7 @@
         <name>Hordeling Outburst</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>1</count>
-      <location>Decks/Virtual/Gobbos</location>
-      <date>Mon Jun 07 11:16:22 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386561</id>
-        <name>Howl of the Horde</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
+      <count>3</count>
       <location>Decks/Virtual/Gobbos</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
     </mcp>
@@ -155,16 +115,6 @@
         <name>Mardu Charm</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>1</count>
-      <location>Decks/Virtual/Gobbos</location>
-      <date>Mon Jun 07 11:16:22 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386642</id>
-        <name>Rush of Battle</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
       <count>2</count>
       <location>Decks/Virtual/Gobbos</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
@@ -185,7 +135,7 @@
         <name>Mardu Warshrieker</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>3</count>
+      <count>2</count>
       <location>Decks/Virtual/Gobbos</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
     </mcp>
@@ -211,36 +161,6 @@
     </mcp>
     <mcp>
       <card>
-        <id>386691</id>
-        <name>Take Up Arms</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Decks/Virtual/Gobbos</location>
-      <date>Mon Jun 07 11:16:22 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386526</id>
-        <name>Dragon-Style Twins</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Decks/Virtual/Gobbos</location>
-      <date>Mon Jun 07 11:16:22 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386628</id>
-        <name>Ponyback Brigade</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Decks/Virtual/Gobbos</location>
-      <date>Mon Jun 07 11:16:22 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
         <id>386655</id>
         <name>Scoured Barrens</name>
         <edition>Khans of Tarkir</edition>
@@ -255,7 +175,7 @@
         <name>Bloodfell Caves</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>1</count>
+      <count>4</count>
       <location>Decks/Virtual/Gobbos</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
     </mcp>
@@ -275,7 +195,7 @@
         <name>Ankle Shanker</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>1</count>
+      <count>2</count>
       <location>Decks/Virtual/Gobbos</location>
       <date>Thu Jun 10 17:56:04 CEST 2021</date>
     </mcp>
@@ -311,31 +231,11 @@
     </mcp>
     <mcp>
       <card>
-        <id>386478</id>
-        <name>Arc Lightning</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Decks/Virtual/Gobbos</location>
-      <date>Thu Jun 10 16:54:44 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386643</id>
-        <name>Ruthless Ripper</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>3</count>
-      <location>Decks/Virtual/Gobbos</location>
-      <date>Mon Jun 07 11:16:22 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
         <id>386624</id>
         <name>Plains</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>2</count>
+      <count>3</count>
       <location>Decks/Virtual/Gobbos</location>
       <date>Thu Jun 10 12:51:32 CEST 2021</date>
     </mcp>
@@ -345,7 +245,7 @@
         <name>Mountain</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>6</count>
+      <count>4</count>
       <location>Decks/Virtual/Gobbos</location>
       <date>Fri Jun 11 19:34:56 CEST 2021</date>
     </mcp>
@@ -355,9 +255,69 @@
         <name>Swamp</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>3</count>
+      <count>2</count>
       <location>Decks/Virtual/Gobbos</location>
       <date>Tue Jun 08 16:00:15 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386672</id>
+        <name>Sorin, Solemn Visitor</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Decks/Virtual/Gobbos</location>
+      <date>Tue Jun 08 10:26:25 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386613</id>
+        <name>Murderous Cut</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Decks/Virtual/Gobbos</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386532</id>
+        <name>End Hostilities</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Decks/Virtual/Gobbos</location>
+      <date>Thu Jun 10 16:54:02 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386642</id>
+        <name>Rush of Battle</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Decks/Virtual/Gobbos</location>
+      <date>Thu Jun 10 16:54:44 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386618</id>
+        <name>Necropolis Fiend</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Decks/Virtual/Gobbos</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386504</id>
+        <name>Chief of the Edge</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Decks/Virtual/Gobbos</location>
+      <date>Tue Jun 08 10:26:25 CEST 2021</date>
     </mcp>
   </list>
 </cards>

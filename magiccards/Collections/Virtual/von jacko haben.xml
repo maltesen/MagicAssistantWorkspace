@@ -99,5 +99,35 @@
       <location>Collections/Virtual/von jacko haben</location>
       <date>Mon Jun 07 11:24:52 CEST 2021</date>
     </mcp>
+    <mcp>
+      <card>
+        <id>386560</id>
+        <name>Hordeling Outburst</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Fri Jun 11 07:12:42 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386512</id>
+        <name>Dead Drop</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386691</id>
+        <name>Take Up Arms</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/von jacko haben</location>
+      <date>Mon Jun 07 11:24:52 CEST 2021</date>
+    </mcp>
   </list>
 </cards>

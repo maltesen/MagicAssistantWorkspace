@@ -30,21 +30,11 @@
     </mcp>
     <mcp>
       <card>
-        <id>386554</id>
-        <name>High Sentinels of Arashin</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Decks/Virtual/Warriors</location>
-      <date>Mon Jun 07 11:16:22 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
         <id>386464</id>
         <name>Abzan Ascendancy</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>1</count>
+      <count>2</count>
       <location>Decks/Virtual/Warriors</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
     </mcp>
@@ -84,7 +74,7 @@
         <name>Dazzling Ramparts</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>3</count>
+      <count>2</count>
       <location>Decks/Virtual/Warriors</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
     </mcp>
@@ -94,7 +84,7 @@
         <name>Take Up Arms</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>1</count>
+      <count>2</count>
       <location>Decks/Virtual/Warriors</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
     </mcp>
@@ -104,7 +94,7 @@
         <name>Raiders' Spoils</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>2</count>
+      <count>1</count>
       <location>Decks/Virtual/Warriors</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
     </mcp>
@@ -124,7 +114,7 @@
         <name>Chief of the Edge</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>1</count>
+      <count>3</count>
       <location>Decks/Virtual/Warriors</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
     </mcp>
@@ -134,7 +124,7 @@
         <name>Rush of Battle</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>3</count>
+      <count>2</count>
       <location>Decks/Virtual/Warriors</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
     </mcp>
@@ -142,26 +132,6 @@
       <card>
         <id>386596</id>
         <name>Mardu Hordechief</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>3</count>
-      <location>Decks/Virtual/Warriors</location>
-      <date>Mon Jun 07 11:16:22 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386582</id>
-        <name>Kill Shot</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Decks/Virtual/Warriors</location>
-      <date>Mon Jun 07 11:16:22 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386521</id>
-        <name>Disowned Ancestor</name>
         <edition>Khans of Tarkir</edition>
       </card>
       <count>2</count>
@@ -184,7 +154,7 @@
         <name>Ainok Bond-Kin</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>2</count>
+      <count>1</count>
       <location>Decks/Virtual/Warriors</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
     </mcp>
@@ -200,21 +170,11 @@
     </mcp>
     <mcp>
       <card>
-        <id>386682</id>
-        <name>Suspension Field</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>3</count>
-      <location>Decks/Virtual/Warriors</location>
-      <date>Mon Jun 07 11:16:22 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
         <id>386496</id>
         <name>Blossoming Sands</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>3</count>
+      <count>4</count>
       <location>Decks/Virtual/Warriors</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
     </mcp>
@@ -225,16 +185,6 @@
         <edition>Khans of Tarkir</edition>
       </card>
       <count>4</count>
-      <location>Decks/Virtual/Warriors</location>
-      <date>Mon Jun 07 11:16:22 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386537</id>
-        <name>Flooded Strand</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
       <location>Decks/Virtual/Warriors</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
     </mcp>
@@ -254,7 +204,7 @@
         <name>Plains</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>7</count>
+      <count>3</count>
       <location>Decks/Virtual/Warriors</location>
       <date>Thu Jun 10 12:51:32 CEST 2021</date>
     </mcp>
@@ -264,29 +214,99 @@
         <name>Swamp</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>5</count>
+      <count>3</count>
       <location>Decks/Virtual/Warriors</location>
       <date>Thu Jun 10 12:51:32 CEST 2021</date>
     </mcp>
     <mcp>
       <card>
-        <id>386534</id>
-        <name>Feat of Resistance</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Decks/Virtual/Warriors</location>
-      <date>Thu Jun 10 17:57:57 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386515</id>
-        <name>Defiant Strike</name>
+        <id>386672</id>
+        <name>Sorin, Solemn Visitor</name>
         <edition>Khans of Tarkir</edition>
       </card>
       <count>1</count>
       <location>Decks/Virtual/Warriors</location>
-      <date>Thu Jun 10 17:57:35 CEST 2021</date>
+      <date>Tue Jun 08 10:26:25 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386505</id>
+        <name>Chief of the Scale</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Tue Jun 08 10:26:25 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386577</id>
+        <name>Jungle Hollow</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>4</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386527</id>
+        <name>Duneblast</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386554</id>
+        <name>High Sentinels of Arashin</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386480</id>
+        <name>Armament Corps</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386467</id>
+        <name>Abzan Charm</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Tue Jun 08 10:26:25 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386583</id>
+        <name>Kin-Tree Invocation</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386465</id>
+        <name>Abzan Banner</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Mon Jun 07 11:16:22 CEST 2021</date>
     </mcp>
   </list>
 </cards>
