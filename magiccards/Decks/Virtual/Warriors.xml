@@ -14,7 +14,7 @@
         <name>End Hostilities</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>2</count>
+      <count>1</count>
       <location>Decks/Virtual/Warriors</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
     </mcp>
@@ -34,7 +34,7 @@
         <name>Abzan Ascendancy</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>2</count>
+      <count>3</count>
       <location>Decks/Virtual/Warriors</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
     </mcp>
@@ -94,7 +94,7 @@
         <name>Raiders' Spoils</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>1</count>
+      <count>2</count>
       <location>Decks/Virtual/Warriors</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
     </mcp>
@@ -124,7 +124,7 @@
         <name>Rush of Battle</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>2</count>
+      <count>1</count>
       <location>Decks/Virtual/Warriors</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
     </mcp>
@@ -134,17 +134,7 @@
         <name>Mardu Hordechief</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>2</count>
-      <location>Decks/Virtual/Warriors</location>
-      <date>Mon Jun 07 11:16:22 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386588</id>
-        <name>Longshot Squad</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
+      <count>3</count>
       <location>Decks/Virtual/Warriors</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
     </mcp>
@@ -274,7 +264,7 @@
         <name>Armament Corps</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>2</count>
+      <count>1</count>
       <location>Decks/Virtual/Warriors</location>
       <date>Fri Jun 11 15:36:55 CEST 2021</date>
     </mcp>
@@ -297,6 +287,16 @@
       <count>1</count>
       <location>Decks/Virtual/Warriors</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386658</id>
+        <name>See the Unwritten</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Decks/Virtual/Warriors</location>
+      <date>Thu Jun 17 17:50:40 CEST 2021</date>
     </mcp>
   </list>
 </cards>

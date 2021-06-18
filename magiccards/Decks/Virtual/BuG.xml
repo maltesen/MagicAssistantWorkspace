@@ -84,7 +84,7 @@
         <name>Treasure Cruise</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>3</count>
+      <count>2</count>
       <location>Decks/Virtual/BuG</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
     </mcp>
@@ -234,7 +234,7 @@
         <name>Sagu Archer</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>2</count>
+      <count>1</count>
       <location>Decks/Virtual/BuG</location>
       <date>Thu Jun 10 16:52:15 CEST 2021</date>
     </mcp>
@@ -254,9 +254,19 @@
         <name>Necropolis Fiend</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>1</count>
+      <count>2</count>
       <location>Decks/Virtual/BuG</location>
       <date>Fri Jun 11 15:36:55 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386647</id>
+        <name>Sagu Mauler</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Decks/Virtual/BuG</location>
+      <date>Thu Jun 17 17:50:40 CEST 2021</date>
     </mcp>
   </list>
 </cards>

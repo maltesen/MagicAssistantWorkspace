@@ -45,7 +45,7 @@
         <name>War-Name Aspirant</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>1</count>
+      <count>2</count>
       <location>Decks/Virtual/Gobbos</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
     </mcp>
@@ -105,7 +105,7 @@
         <name>Crackling Doom</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>1</count>
+      <count>2</count>
       <location>Decks/Virtual/Gobbos</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
     </mcp>
@@ -131,21 +131,11 @@
     </mcp>
     <mcp>
       <card>
-        <id>386599</id>
-        <name>Mardu Warshrieker</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>2</count>
-      <location>Decks/Virtual/Gobbos</location>
-      <date>Mon Jun 07 11:16:22 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
         <id>386501</id>
         <name>Butcher of the Horde</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>1</count>
+      <count>2</count>
       <location>Decks/Virtual/Gobbos</location>
       <date>Mon Jun 07 11:16:22 CEST 2021</date>
     </mcp>
@@ -288,16 +278,6 @@
       <count>1</count>
       <location>Decks/Virtual/Gobbos</location>
       <date>Thu Jun 10 16:54:02 CEST 2021</date>
-    </mcp>
-    <mcp>
-      <card>
-        <id>386642</id>
-        <name>Rush of Battle</name>
-        <edition>Khans of Tarkir</edition>
-      </card>
-      <count>1</count>
-      <location>Decks/Virtual/Gobbos</location>
-      <date>Thu Jun 10 16:54:44 CEST 2021</date>
     </mcp>
     <mcp>
       <card>
