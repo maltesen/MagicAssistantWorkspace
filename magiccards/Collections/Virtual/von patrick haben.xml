@@ -15,7 +15,7 @@
         <name>Sidisi, Brood Tyrant</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>4</count>
+      <count>2</count>
       <location>Collections/Virtual/von patrick haben</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
@@ -25,7 +25,7 @@
         <name>Rakshasa Deathdealer</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>6</count>
+      <count>3</count>
       <location>Collections/Virtual/von patrick haben</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
@@ -41,31 +41,61 @@
     </mcp>
     <mcp>
       <card>
-        <id>386487</id>
-        <name>Become Immense</name>
+        <id>386553</id>
+        <name>Herald of Anafenza</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>6</count>
+      <count>2</count>
+      <location>Collections/Virtual/von patrick haben</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386494</id>
+        <name>Bloodsoaked Champion</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/von patrick haben</location>
+      <date>Fri Jun 18 00:55:57 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386569</id>
+        <name>Ivorytusk Fortress</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
       <location>Collections/Virtual/von patrick haben</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
     <mcp>
       <card>
-        <id>386513</id>
-        <name>Death Frenzy</name>
+        <id>386527</id>
+        <name>Duneblast</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>2</count>
+      <count>1</count>
       <location>Collections/Virtual/von patrick haben</location>
-      <date>Tue Jun 08 21:49:51 CEST 2021</date>
+      <date>Fri Jun 18 00:55:57 CEST 2021</date>
     </mcp>
     <mcp>
       <card>
-        <id>386583</id>
-        <name>Kin-Tree Invocation</name>
+        <id>386464</id>
+        <name>Abzan Ascendancy</name>
         <edition>Khans of Tarkir</edition>
       </card>
-      <count>2</count>
+      <count>1</count>
+      <location>Collections/Virtual/von patrick haben</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386619</id>
+        <name>Nomad Outpost</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
       <location>Collections/Virtual/von patrick haben</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
     </mcp>
@@ -78,6 +108,86 @@
       <count>2</count>
       <location>Collections/Virtual/von patrick haben</location>
       <date>Tue Jun 08 21:49:51 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386643</id>
+        <name>Ruthless Ripper</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/von patrick haben</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386505</id>
+        <name>Chief of the Scale</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/von patrick haben</location>
+      <date>Tue Jun 08 21:49:51 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386636</id>
+        <name>Ride Down</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/von patrick haben</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386583</id>
+        <name>Kin-Tree Invocation</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>3</count>
+      <location>Collections/Virtual/von patrick haben</location>
+      <date>Tue Jun 08 21:49:51 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386593</id>
+        <name>Mardu Charm</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/von patrick haben</location>
+      <date>Tue Jun 08 21:49:51 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386467</id>
+        <name>Abzan Charm</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/von patrick haben</location>
+      <date>Tue Jun 08 21:49:51 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386676</id>
+        <name>Sultai Charm</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>1</count>
+      <location>Collections/Virtual/von patrick haben</location>
+      <date>Fri Jun 18 00:55:57 CEST 2021</date>
+    </mcp>
+    <mcp>
+      <card>
+        <id>386706</id>
+        <name>Trumpet Blast</name>
+        <edition>Khans of Tarkir</edition>
+      </card>
+      <count>2</count>
+      <location>Collections/Virtual/von patrick haben</location>
+      <date>Thu Jun 10 22:59:14 CEST 2021</date>
     </mcp>
   </list>
 </cards>
